@@ -1,2 +1,2 @@
 # PixelPatch
-Revive your PNG and JPEG image.
+Revive your PNG image.
